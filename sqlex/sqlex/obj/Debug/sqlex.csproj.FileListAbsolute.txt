@@ -1,0 +1,5 @@
+Z:\MT Lab\sqlex\sqlex\obj\Debug\sqlex.csprojResolveAssemblyReference.cache
+Z:\MT Lab\sqlex\sqlex\bin\sqlex.dll
+Z:\MT Lab\sqlex\sqlex\bin\sqlex.pdb
+Z:\MT Lab\sqlex\sqlex\obj\Debug\sqlex.dll
+Z:\MT Lab\sqlex\sqlex\obj\Debug\sqlex.pdb

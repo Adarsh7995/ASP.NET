@@ -1,0 +1,4 @@
+Z:\MT Lab\styles\styles\bin\styles.dll
+Z:\MT Lab\styles\styles\bin\styles.pdb
+Z:\MT Lab\styles\styles\obj\Debug\styles.dll
+Z:\MT Lab\styles\styles\obj\Debug\styles.pdb
