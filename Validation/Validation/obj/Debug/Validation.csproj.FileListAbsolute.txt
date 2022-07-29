@@ -1,0 +1,5 @@
+Z:\MT Lab\Validation\Validation\bin\Validation.dll
+Z:\MT Lab\Validation\Validation\bin\Validation.pdb
+Z:\MT Lab\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+Z:\MT Lab\Validation\Validation\obj\Debug\Validation.dll
+Z:\MT Lab\Validation\Validation\obj\Debug\Validation.pdb

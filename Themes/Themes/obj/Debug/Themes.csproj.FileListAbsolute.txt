@@ -1,0 +1,4 @@
+Z:\MT Lab\Themes\Themes\bin\Themes.dll
+Z:\MT Lab\Themes\Themes\bin\Themes.pdb
+Z:\MT Lab\Themes\Themes\obj\Debug\Themes.dll
+Z:\MT Lab\Themes\Themes\obj\Debug\Themes.pdb
