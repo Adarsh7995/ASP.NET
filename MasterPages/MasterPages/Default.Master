@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.Master.cs" Inherits="MasterPages.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <h2>Hello</h2>
+        <div>
+            <asp:TreeView ID="TreeView1" runat="server">
+                <Nodes>
+
+                </Nodes>
+            </asp:TreeView>     
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                Enter Your Name:<asp:TextBox ID="textbox1" runat="server" />
+                <asp:Button ID="button1" runat="server" Text="Button" />
+            </asp:ContentPlaceHolder>
+               
+        </div>
+    </form>
+</body>
+</html>

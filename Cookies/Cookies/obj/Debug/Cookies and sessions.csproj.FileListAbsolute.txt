@@ -1,0 +1,5 @@
+Z:\MT Lab\Cookies\Cookies\bin\Cookies.dll
+Z:\MT Lab\Cookies\Cookies\bin\Cookies.pdb
+Z:\MT Lab\Cookies\Cookies\obj\Debug\Cookies and sessions.csprojResolveAssemblyReference.cache
+Z:\MT Lab\Cookies\Cookies\obj\Debug\Cookies.dll
+Z:\MT Lab\Cookies\Cookies\obj\Debug\Cookies.pdb

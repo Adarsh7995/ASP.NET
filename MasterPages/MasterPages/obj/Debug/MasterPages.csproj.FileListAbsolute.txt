@@ -1,0 +1,5 @@
+Z:\MT Lab\MasterPages\MasterPages\bin\MasterPages.dll
+Z:\MT Lab\MasterPages\MasterPages\bin\MasterPages.pdb
+Z:\MT Lab\MasterPages\MasterPages\obj\Debug\MasterPages.csprojResolveAssemblyReference.cache
+Z:\MT Lab\MasterPages\MasterPages\obj\Debug\MasterPages.dll
+Z:\MT Lab\MasterPages\MasterPages\obj\Debug\MasterPages.pdb

@@ -1,0 +1,5 @@
+Z:\MT Lab\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.csprojResolveAssemblyReference.cache
+Z:\MT Lab\LinqToObjects\LinqToObjects\bin\LinqToObjects.dll
+Z:\MT Lab\LinqToObjects\LinqToObjects\bin\LinqToObjects.pdb
+Z:\MT Lab\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.dll
+Z:\MT Lab\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.pdb
