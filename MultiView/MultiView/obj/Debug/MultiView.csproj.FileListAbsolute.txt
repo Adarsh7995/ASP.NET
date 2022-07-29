@@ -1,0 +1,4 @@
+Z:\MT Lab\RichControls\MultiView\MultiView\bin\MultiView.dll
+Z:\MT Lab\RichControls\MultiView\MultiView\bin\MultiView.pdb
+Z:\MT Lab\RichControls\MultiView\MultiView\obj\Debug\MultiView.dll
+Z:\MT Lab\RichControls\MultiView\MultiView\obj\Debug\MultiView.pdb

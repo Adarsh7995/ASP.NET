@@ -1,0 +1,4 @@
+Z:\MT Lab\RichControls\calander\calander\bin\calander.dll
+Z:\MT Lab\RichControls\calander\calander\bin\calander.pdb
+Z:\MT Lab\RichControls\calander\calander\obj\Debug\calander.dll
+Z:\MT Lab\RichControls\calander\calander\obj\Debug\calander.pdb

@@ -1,0 +1,5 @@
+Z:\MT Lab\RichControls\AddRotator\AddRotator\bin\AddRotator.dll
+Z:\MT Lab\RichControls\AddRotator\AddRotator\bin\AddRotator.pdb
+Z:\MT Lab\RichControls\AddRotator\AddRotator\obj\Debug\AddRotator.csprojResolveAssemblyReference.cache
+Z:\MT Lab\RichControls\AddRotator\AddRotator\obj\Debug\AddRotator.dll
+Z:\MT Lab\RichControls\AddRotator\AddRotator\obj\Debug\AddRotator.pdb

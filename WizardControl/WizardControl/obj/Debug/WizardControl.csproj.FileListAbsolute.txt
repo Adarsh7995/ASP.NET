@@ -1,0 +1,5 @@
+Z:\MT Lab\RichControls\WizardControl\WizardControl\bin\WizardControl.dll
+Z:\MT Lab\RichControls\WizardControl\WizardControl\bin\WizardControl.pdb
+Z:\MT Lab\RichControls\WizardControl\WizardControl\obj\Debug\WizardControl.dll
+Z:\MT Lab\RichControls\WizardControl\WizardControl\obj\Debug\WizardControl.pdb
+Z:\MT Lab\RichControls\WizardControl\WizardControl\obj\Debug\WizardControl.csprojResolveAssemblyReference.cache
